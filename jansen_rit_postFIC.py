@@ -27,7 +27,7 @@
 
 # DOCUMENTATION ABOUT THIS VERSION EDITS:
 """
-Jansen-Rit and current Feedback Inhibitory Control implementation by...
+Jansen-Rit and current Feedback Inhibitory Control implementation by J.Stasinski and D.Perdikis
 
 """
 
